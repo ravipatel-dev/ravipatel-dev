@@ -1,16 +1,43 @@
-## Hi there 👋
+Hi, I'm Ravi Patel 
+About Me
+BSc IT Graduate (CGPA: 8.9)
+Python Developer
+Passionate about Software Development
+Currently learning Flask, SQL, JavaScript, and Backend Development
+Technical Skills
+Programming Languages
+Python
+JavaScript
+Web Development
+HTML5
+CSS3
+Flask
+Database
+MySQL
+SQL
+Tools
+GitHub
+VS Code
 
-<!--
-**ravipatel-dev/ravipatel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects
+SkillXam System
+Online examination platform for students.
 
-Here are some ideas to get you started:
+ServiceHub
+Service booking platform connecting users with service providers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI Chatbot
+Chatbot developed using Python.
+
+Education
+Bachelor of Science in Information Technology (BSc IT)
+
+CGPA: 8.9
+
+Contact
+
+Email: rp1651007@gmail.com
+
+LinkedIn: linkedin.com/in/ravi-patel-8796a229a
+
+GitHub: github.com/ravipatel-dev
