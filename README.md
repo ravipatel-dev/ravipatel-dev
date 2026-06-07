@@ -38,6 +38,6 @@ Contact
 
 Email: rp1651007@gmail.com
 
-LinkedIn: linkedin.com/in/ravi-patel-8796a229a
+LinkedIn: [Ravi Patel](https://www.linkedin.com/in/ravi-patel-8796a229a)
 
-GitHub: github.com/ravipatel-dev
+GitHub: [ravipatel-dev](https://github.com/ravipatel-dev)
